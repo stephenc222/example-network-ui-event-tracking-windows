@@ -9,6 +9,10 @@ The system consists of two components:
 
 This project is intended as an educational resource for learning how to use low-level Windows APIs (UI Automation, Win32 hooks, IP Helper APIs) to build practical tooling for system monitoring.
 
+[Read the full blog post](https://stephencollins.tech/posts/windows-ui-network-monitoring-rust-csharp) about this project.
+
+The macos counterpart tutorial project can be found [here](https://github.com/stephenc222/example-network-ui-event-tracking-macos)
+
 ---
 
 ## 📁 Repository Structure
