@@ -1,0 +1,59 @@
+[2025-04-10 15:12:56.873] Starting Windows Watcher...
+[2025-04-10 15:12:56.888] Hooks installed. Running message loop...
+[2025-04-10 15:12:56.890] [15:12:56.890] TCP: 10.0.0.5:15616 → 66.68.34.205:15104, PID=756, STATE=ESTABLISHED
+[2025-04-10 15:12:56.890] [15:12:56.890] TCP: 10.0.0.5:61696 → 168.63.129.16:3584, PID=2096, STATE=ESTABLISHED
+[2025-04-10 15:12:56.892] [15:12:56.891] TCP: 10.0.0.5:23808 → 168.63.129.16:3584, PID=6516, STATE=ESTABLISHED
+[2025-04-10 15:12:56.892] [15:12:56.892] TCP: 10.0.0.5:26368 → 168.63.129.16:20480, PID=6516, STATE=ESTABLISHED
+[2025-04-10 15:12:56.892] [15:12:56.892] TCP: 10.0.0.5:31744 → 20.7.1.246:47872, PID=4116, STATE=ESTABLISHED
+[2025-04-10 15:12:56.892] [15:12:56.892] TCP: 10.0.0.5:48128 → 52.179.73.57:47872, PID=16064, STATE=ESTABLISHED
+[2025-04-10 15:12:56.893] [15:12:56.893] TCP: 10.0.0.5:49920 → 20.189.173.18:47872, PID=6572, STATE=ESTABLISHED
+[2025-04-10 15:12:56.893] [15:12:56.893] TCP: 10.0.0.5:50176 → 172.178.160.19:47872, PID=1592, STATE=ESTABLISHED
+[2025-04-10 15:13:06.328] Mouse Down: Pos=(1176, 1052) - Starting UIA lookup...
+[2025-04-10 15:13:06.356]   Element: App='explorer.exe' (PID=4696), Name='ExampleWindowsApp - 1 running window', AutomationID='Appid: C:\Users\stephen\source\repos\ExampleWindowsApp\ExampleWindowsApp\bin\Release\net8.0-windows\ExampleWindowsApp.exe'
+[2025-04-10 15:13:07.767] Mouse Down: Pos=(195, 202) - Starting UIA lookup...
+[2025-04-10 15:13:07.775]   Element: App='ExampleWindowsApp.exe' (PID=10792), Name='Button A', AutomationID='ButtonA'
+[2025-04-10 15:13:07.882] [15:13:07.882] TCP: 10.0.0.5:56832 → 104.21.64.1:47872, PID=10792, STATE=ESTABLISHED
+[2025-04-10 15:13:08.348] Mouse Down: Pos=(269, 213) - Starting UIA lookup...
+[2025-04-10 15:13:08.356]   Element: App='ExampleWindowsApp.exe' (PID=10792), Name='Button B', AutomationID='ButtonB'
+[2025-04-10 15:13:08.441] [15:13:08.441] TCP: 10.0.0.5:57344 → 104.21.64.1:47872, PID=10792, STATE=SYN_SENT
+[2025-04-10 15:13:08.462] [15:13:08.462] TCP: 10.0.0.5:57344 → 104.21.64.1:47872, PID=10792, STATE=ESTABLISHED
+[2025-04-10 15:13:09.022] Mouse Down: Pos=(383, 205) - Starting UIA lookup...
+[2025-04-10 15:13:09.029]   Element: App='ExampleWindowsApp.exe' (PID=10792), Name='Button C', AutomationID='ButtonC'
+[2025-04-10 15:13:09.124] [15:13:09.124] TCP: 10.0.0.5:57600 → 104.21.64.1:47872, PID=10792, STATE=ESTABLISHED
+[2025-04-10 15:13:09.674] Mouse Down: Pos=(311, 205) - Starting UIA lookup...
+[2025-04-10 15:13:09.680]   Element: App='ExampleWindowsApp.exe' (PID=10792), Name='Button B', AutomationID='ButtonB'
+[2025-04-10 15:13:09.785] [15:13:09.785] TCP: 10.0.0.5:57856 → 104.21.64.1:47872, PID=10792, STATE=ESTABLISHED
+[2025-04-10 15:13:10.208] Mouse Down: Pos=(200, 207) - Starting UIA lookup...
+[2025-04-10 15:13:10.215]   Element: App='ExampleWindowsApp.exe' (PID=10792), Name='Button A', AutomationID='ButtonA'
+[2025-04-10 15:13:10.363] [15:13:10.363] TCP: 10.0.0.5:58112 → 104.21.64.1:47872, PID=10792, STATE=ESTABLISHED
+[2025-04-10 15:13:10.765] Mouse Down: Pos=(278, 207) - Starting UIA lookup...
+[2025-04-10 15:13:10.772]   Element: App='ExampleWindowsApp.exe' (PID=10792), Name='Button B', AutomationID='ButtonB'
+[2025-04-10 15:13:10.922] [15:13:10.922] TCP: 10.0.0.5:59648 → 104.21.64.1:47872, PID=10792, STATE=ESTABLISHED
+[2025-04-10 15:13:11.254] Mouse Down: Pos=(278, 207) - Starting UIA lookup...
+[2025-04-10 15:13:11.262]   Element: App='ExampleWindowsApp.exe' (PID=10792), Name='Button B', AutomationID='ButtonB'
+[2025-04-10 15:13:11.481] [15:13:11.481] TCP: 10.0.0.5:59904 → 104.21.64.1:47872, PID=10792, STATE=ESTABLISHED
+[2025-04-10 15:13:11.802] Mouse Down: Pos=(207, 207) - Starting UIA lookup...
+[2025-04-10 15:13:11.810]   Element: App='ExampleWindowsApp.exe' (PID=10792), Name='Button A', AutomationID='ButtonA'
+[2025-04-10 15:13:11.956] [15:13:11.956] TCP: 10.0.0.5:60160 → 104.21.64.1:47872, PID=10792, STATE=ESTABLISHED
+[2025-04-10 15:13:12.262] Mouse Down: Pos=(207, 206) - Starting UIA lookup...
+[2025-04-10 15:13:12.271]   Element: App='ExampleWindowsApp.exe' (PID=10792), Name='Button A', AutomationID='ButtonA'
+[2025-04-10 15:13:12.411] [15:13:12.411] TCP: 10.0.0.5:60416 → 104.21.64.1:47872, PID=10792, STATE=ESTABLISHED
+[2025-04-10 15:13:12.793] Mouse Down: Pos=(378, 206) - Starting UIA lookup...
+[2025-04-10 15:13:12.800]   Element: App='ExampleWindowsApp.exe' (PID=10792), Name='Button C', AutomationID='ButtonC'
+[2025-04-10 15:13:12.907] [15:13:12.907] TCP: 10.0.0.5:60672 → 104.21.64.1:47872, PID=10792, STATE=SYN_SENT
+[2025-04-10 15:13:12.928] [15:13:12.928] TCP: 10.0.0.5:60672 → 104.21.64.1:47872, PID=10792, STATE=ESTABLISHED
+[2025-04-10 15:13:13.203] Mouse Down: Pos=(378, 206) - Starting UIA lookup...
+[2025-04-10 15:13:13.211]   Element: App='ExampleWindowsApp.exe' (PID=10792), Name='Button C', AutomationID='ButtonC'
+[2025-04-10 15:13:13.386] [15:13:13.386] TCP: 10.0.0.5:60928 → 104.21.64.1:47872, PID=10792, STATE=ESTABLISHED
+[2025-04-10 15:13:13.814] Mouse Down: Pos=(302, 210) - Starting UIA lookup...
+[2025-04-10 15:13:13.821]   Element: App='ExampleWindowsApp.exe' (PID=10792), Name='Button B', AutomationID='ButtonB'
+[2025-04-10 15:13:14.028] [15:13:14.028] TCP: 10.0.0.5:61184 → 104.21.64.1:47872, PID=10792, STATE=ESTABLISHED
+[2025-04-10 15:13:15.313] [15:13:15.313] TCP: 10.0.0.5:15616 → 178.20.129.235:55808, PID=756, STATE=SYN_RECEIVED
+[2025-04-10 15:13:15.439] [15:13:15.439] TCP: 10.0.0.5:15616 → 178.20.129.235:55808, PID=756, STATE=ESTABLISHED
+[2025-04-10 15:13:17.279] Mouse Down: Pos=(669, 118) - Starting UIA lookup...
+[2025-04-10 15:13:17.289]   Element: App='ExampleWindowsApp.exe' (PID=10792), Name='Close', AutomationID=''
+[2025-04-10 15:13:18.773] Mouse Down: Pos=(901, 901) - Starting UIA lookup...
+[2025-04-10 15:13:18.783]   Element: App='Code.exe' (PID=14080), Name='Chrome Legacy Window', AutomationID='302640'
+[2025-04-10 15:13:19.569] ESC key pressed — triggering shutdown.
+[2025-04-10 15:13:19.570] Exiting message loop. Cleaning up...
+[2025-04-10 15:13:19.571] Windows Watcher finished.
